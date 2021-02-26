@@ -18,7 +18,6 @@
                 
                 <div class="d-flex flex-row">
                     <button type="submit"class="btn btn-primary ml-auto">Submit</button>
-
                 </div>
             </form>
         </div>
