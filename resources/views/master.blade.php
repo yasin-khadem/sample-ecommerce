@@ -35,6 +35,17 @@
             height: 500px;
             padding-top: 100px;
         }
+        img.slider-img{
+            height: 400px !important;
+            width: 400px !important;
+            margin: 0 auto !important;
+        }
+        .carousel-cation{
+           text-align: center !important;
+        }
+        .custom-product{
+            height: 600px;
+        }
     </style>
 </head>
 
